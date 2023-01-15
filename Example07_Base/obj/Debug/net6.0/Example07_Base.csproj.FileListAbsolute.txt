@@ -1,0 +1,15 @@
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\bin\Debug\net6.0\Example07_Base.exe
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\bin\Debug\net6.0\Example07_Base.deps.json
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\bin\Debug\net6.0\Example07_Base.runtimeconfig.json
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\bin\Debug\net6.0\Example07_Base.dll
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\bin\Debug\net6.0\Example07_Base.pdb
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\obj\Debug\net6.0\Example07_Base.csproj.AssemblyReference.cache
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\obj\Debug\net6.0\Example07_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\obj\Debug\net6.0\Example07_Base.AssemblyInfoInputs.cache
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\obj\Debug\net6.0\Example07_Base.AssemblyInfo.cs
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\obj\Debug\net6.0\Example07_Base.csproj.CoreCompileInputs.cache
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\obj\Debug\net6.0\Example07_Base.dll
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\obj\Debug\net6.0\refint\Example07_Base.dll
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\obj\Debug\net6.0\Example07_Base.pdb
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\obj\Debug\net6.0\Example07_Base.genruntimeconfig.cache
+C:\Users\Комп\Desktop\Example 1.0\Example07_Base\obj\Debug\net6.0\ref\Example07_Base.dll
